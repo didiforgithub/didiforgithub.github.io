@@ -21,10 +21,18 @@ I am a senior undergraduate student from [School of Information](http://info.ruc
 You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 
 # 🔥 News
-- coming soon
+- *2024.06* 终于有书读了！
 
 # 📝 Publications 
-- coming soon
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/data_interpreter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE](https://arxiv.org/pdf/2402.18679)
+
+Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Chen, **Jiayi Zhang**, Jinlin Wang, Li Zhang, Lingyao Zhang, Min Yang, Mingchen Zhuge, Taicheng Guo, Tuo Zhou, Wei Tao, Wenyi Wang, Xiangru Tang, Xiangtao Lu, Xiawu Zheng, Xinbing Liang, Yaying Fei, Yuheng Cheng, Zongze Xu, Chenglin Wu
+
+</div>
+</div>
 
 # 📖 Educations
 - *2024.09 - 2028.06 (incoming)*, The Hong Kong University of Science and Technology (Guangzhou), Information Hub.
