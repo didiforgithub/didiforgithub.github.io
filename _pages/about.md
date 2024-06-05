@@ -16,8 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a senior undergraduate student from [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest primarily focuses on LLM Based Agents, with a particular emphasis on code generation and the paradigm of constructing agents that are adaptable to multiple environments. I have published more than ?(hhh) papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=VATBrqgAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=VATBrqgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am a senior undergraduate student from [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest primarily focuses on LLM Based Agents, with a particular emphasis on code generation and the paradigm of constructing agents that are adaptable to multiple environments. I have published more than ?(hhh) papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=VATBrqgAAAAJ'>google scholar citations <strong><span id='total_cit'>1+</span></strong></a>
 You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 
 # 🔥 News
@@ -41,4 +40,7 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 - *2023.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2023.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-#  Leaderships
+# 👥 Leaderships
+- *2023.07 - Present*, RUC 36th Student Union Committee, Member.
+- *2023.04 - 2024.03*, RUC 45th School of Information Student Union, Chairman.
+- *2022.07 - 2023.07*, RUC lth Mingli Academy Student Union, Chairman.
