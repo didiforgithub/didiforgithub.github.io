@@ -43,7 +43,7 @@ Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Ch
 - *2023.08 - 2023.12*, Algorithm intern, [ZhiPuAI](https://www.zhipuai.cn/) ,China.
 - *2023.07 - 2023.08*, Algorithm intern,[CYOU](https://www.changyou.com/cu.shtml), China.
 
-# 🎯 Competitions & Side Projects
+# 🎯 Competitions and Side Projects
 - *2024.6*, 2024 Alibaba Global Mathematics Competition AI Challenge, Top 5% (21/500+), Team Leader
 - *2024.4*, MetaGPT Android Environment, Core Contributor
 - *2023.12*, Baidu & FounderPark AGI Hackathon, Second Place Award, Team Leader
