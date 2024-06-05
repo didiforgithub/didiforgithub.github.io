@@ -1,4 +1,4 @@
-<img width="1250" alt="image" src="https://github.com/didiforgithub/Jiayi-Zhang.github.io/assets/84363704/a3a73a4e-ed31-480d-a826-7cb0b35e6e90">---
+---
 permalink: /
 title: ""
 excerpt: ""
