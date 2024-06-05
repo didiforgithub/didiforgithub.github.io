@@ -34,6 +34,11 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 - *2023.08 - 2023.12*, Algorithm intern, [ZhiPuAI](https://www.zhipuai.cn/) ,China.
 - *2023.07 - 2023.08*, Algorithm intern,[CYOU](https://www.changyou.com/cu.shtml), China.
 
+# 🎯 Competitions & Side Projects
+- todo
+- todo
+- todo
+
 # 🎖 Honors and Awards
 - *2022.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
