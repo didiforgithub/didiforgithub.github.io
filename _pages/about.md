@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a senior undergraduate student from [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest primarily focuses on LLM Based Agents, with a particular emphasis on code generation and the paradigm of constructing agents that are adaptable to multiple environments. I have published more than ?(hhh) papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=VATBrqgAAAAJ'>google scholar citations <strong><span id='total_cit'>1+</span></strong></a>
 
-You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV .pdf).
+You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf).
 
 # 🔥 News
 - *2024.06* MathAI won third place in the 2024 Alibaba Global Mathematics Competition AI Challenge, thanks to SuperCarryMan!
