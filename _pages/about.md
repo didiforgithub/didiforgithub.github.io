@@ -21,7 +21,7 @@ I am a senior undergraduate student from [School of Information](http://info.ruc
 You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 
 # 🔥 News
-- *2024.06* 终于有书读了！
+- *2024.06* MathAI won third place in the 2024 Alibaba Global Mathematics Competition AI Challenge, thanks to SuperCarryMan!
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/data_interpreter.png' alt="sym" width="100%"></div></div>
@@ -44,7 +44,7 @@ Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Ch
 - *2023.07 - 2023.08*, Algorithm intern,[CYOU](https://www.changyou.com/cu.shtml), China.
 
 # 🎯 Competitions and Side Projects
-- *2024.6*, 2024 Alibaba Global Mathematics Competition AI Challenge, Top 5% (21/500+), Team Leader
+- *2024.6*, 2024 Alibaba Global Mathematics Competition AI Challenge, Top 1% (3/563), Team Leader
 - *2024.4*, MetaGPT Android Environment, Core Contributor
 - *2023.12*, Baidu & FounderPark AGI Hackathon, Second Place Award, Team Leader
 - *2023.9*, MetaGPT Mini Hackathon, Best Contributor
