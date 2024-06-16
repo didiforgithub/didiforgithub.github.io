@@ -56,6 +56,6 @@ Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Ch
 - *2023.10* The First Class Outstanding Student Leadership Scholarship, Renmin University of China.
 
 # 👥 Leaderships
-- *2023.07 - Present*, RUC 36th Student Union Committee, Member.
+- *2023.07 - 2024.06*, RUC 36th Student Union Committee, Member.
 - *2023.04 - 2024.03*, RUC 45th School of Information Student Union, Chairman.
 - *2022.07 - 2023.07*, RUC lth Mingli Academy Student Union, Chairman.
