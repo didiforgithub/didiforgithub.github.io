@@ -39,6 +39,7 @@ Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Ch
 - *2020.09 - 2024.06 (now)*, Renmin University of China, Information School.
 
 # 💻 Internships
+- *2024.6 - Present*, Research Intern, [Thin Red Line](https://www.thinredline.com.cn/), China.
 - *2023.12 - 2024.5*, Research Intern, [Lenovo Research AI Lab](https://research.lenovo.com/webapp/view/index.html), China.
 - *2023.08 - 2023.12*, Algorithm intern, [ZhiPuAI](https://www.zhipuai.cn/) ,China.
 - *2023.07 - 2023.08*, Algorithm intern,[CYOU](https://www.changyou.com/cu.shtml), China.
