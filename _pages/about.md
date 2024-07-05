@@ -46,8 +46,8 @@ Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Ch
 
 
 # 📖 Educations
-- *2024.08 - 2028.06 *, The Hong Kong University of Science and Technology (Guangzhou), Information Hub.
-- *2020.09 - 2024.06 *, Renmin University of China, Information School.
+- *2024.08 - 2028.06*, The Hong Kong University of Science and Technology (Guangzhou), Information Hub.
+- *2020.09 - 2024.06*, Renmin University of China, Information School.
 
 # 💻 Internships
 - *2024.6 - Present*, Research Intern, [Thin Red Line](https://www.thinredline.com.cn/), China.
