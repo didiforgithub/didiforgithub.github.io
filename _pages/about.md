@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a senior undergraduate student from [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest primarily focuses on LLM Based Agents, with a particular emphasis on code generation and the paradigm of constructing agents that are adaptable to multiple environments. I have published more than ?(hhh) papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=VATBrqgAAAAJ'>google scholar citations <strong><span id='total_cit'>1+</span></strong></a>
+I am an incoming PhD student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), starting from Fall 2024. I am honored to be supervised by Professor [Yuyu Luo](https://luoyuyu.vip/). Previously, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest primarily focuses on LLM Based Agents, with a particular emphasis on code generation and the paradigm of constructing agents that are adaptable to multiple environments. 
 
 You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf).
 
@@ -34,9 +34,20 @@ Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Ch
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/mobile_experts.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices]()
+
+**Jiayi Zhang**, Chuang Zhao, Yihan Zhao, Zhaoyang Yu, Ming He, Jianping Fan
+
+</div>
+</div>
+
+
 # 📖 Educations
-- *2024.09 - 2028.06 (incoming)*, The Hong Kong University of Science and Technology (Guangzhou), Information Hub.
-- *2020.09 - 2024.06 (now)*, Renmin University of China, Information School.
+- *2024.08 - 2028.06 *, The Hong Kong University of Science and Technology (Guangzhou), Information Hub.
+- *2020.09 - 2024.06 *, Renmin University of China, Information School.
 
 # 💻 Internships
 - *2024.6 - Present*, Research Intern, [Thin Red Line](https://www.thinredline.com.cn/), China.
