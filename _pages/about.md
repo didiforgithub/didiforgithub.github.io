@@ -37,7 +37,7 @@ Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Ch
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/mobile_experts.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices]()
+[MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://arxiv.org/abs/2407.03913)
 
 **Jiayi Zhang**, Chuang Zhao, Yihan Zhao, Zhaoyang Yu, Ming He, Jianping Fan
 
