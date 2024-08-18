@@ -16,11 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am an incoming PhD student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), starting from Fall 2024. I am honored to be supervised by Professor [Yuyu Luo](https://luoyuyu.vip/). Previously, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest primarily focuses on LLM Based Agents, with a particular emphasis on code generation and the paradigm of constructing agents that are adaptable to multiple environments. 
+I am a PhD student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), starting from Fall 2024. I am honored to be supervised by Professor [Yuyu Luo](https://luoyuyu.vip/). Previously, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest primarily focuses on LLM Based Agents, with a particular emphasis on code generation and the paradigm of constructing agents that are adaptable to multiple environments. 
 
 You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf).
 
 # 🔥 News
+- *2024.08* I joined the DataLab at HKUST(GZ) as a PhD student, advised by Professor Yuyu Luo.
 - *2024.06* MathAI won third place in the 2024 Alibaba Global Mathematics Competition AI Challenge, thanks to SuperCarryMan!
 
 # 📝 Publications 
@@ -29,8 +30,7 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf)
 
 [DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE](https://arxiv.org/pdf/2402.18679)
 
-Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Chen, **Jiayi Zhang**, Jinlin Wang, Li Zhang, Lingyao Zhang, Min Yang, Mingchen Zhuge, Taicheng Guo, Tuo Zhou, Wei Tao, Wenyi Wang, Xiangru Tang, Xiangtao Lu, Xiawu Zheng, Xinbing Liang, Yaying Fei, Yuheng Cheng, Zongze Xu, Chenglin Wu
-
+MetaGPT Community
 </div>
 </div>
 
@@ -46,7 +46,7 @@ Sirui Hong, Yizhang Lin, Bang Liu, Bangbang Liu, Binhao Wu, Danyang Li, Jiaqi Ch
 
 
 # 📖 Educations
-- *2024.08 - 2028.06*, The Hong Kong University of Science and Technology (Guangzhou), Information Hub.
+- *2024.08 - Present*, The Hong Kong University of Science and Technology (Guangzhou), Information Hub.
 - *2020.09 - 2024.06*, Renmin University of China, Information School.
 
 # 💻 Internships
