@@ -31,6 +31,8 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf)
 [DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE](https://arxiv.org/pdf/2402.18679)
 
 MetaGPT Community
+
+We introduces the Data Interpreter, an advanced LLM-based agent designed to enhance problem-solving in data science. It employs three key techniques: dynamic planning with hierarchical graphs, dynamic tool integration, and logical inconsistency identification. The Data Interpreter outperforms existing open-source solutions in various data science and real-world tasks, showing significant improvements in machine learning, mathematical problem-solving, and open-ended tasks.
 </div>
 </div>
 
@@ -40,6 +42,8 @@ MetaGPT Community
 [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://arxiv.org/abs/2407.03913)
 
 **Jiayi Zhang**, Chuang Zhao, Yihan Zhao, Zhaoyang Yu, Ming He, Jianping Fan
+
+We introduces MobileExperts, a novel system that advances autonomous operations in mobile computing through multi-agent collaboration and tool formulation. It addresses the limitations of current Visual Language Models in handling complex tasks on mobile devices. The study demonstrates improved performance across various complexity levels and significantly reduced reasoning costs, marking a step forward in mobile device automation.
 
 </div>
 </div>
