@@ -25,14 +25,15 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf)
 - *2024.06* MathAI won third place in the 2024 Alibaba Global Mathematics Competition AI Challenge, thanks to SuperCarryMan!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/data_interpreter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE](https://arxiv.org/pdf/2402.18679)
+[AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762)
 
-MetaGPT Community
+**Jiayi Zhang**, Jinyu Xiang, Zhaoyang Yu, Fengwei Teng, Xionghui Chen, Jiaqi Chen, Mingchen Zhuge, Xin Cheng, Sirui Hong, Jinlin Wang, Bingnan Zheng, Bang Liu, Yuyu Luo, Chenglin Wu
 
-We introduces the Data Interpreter, an advanced LLM-based agent designed to enhance problem-solving in data science. It employs three key techniques: dynamic planning with hierarchical graphs, dynamic tool integration, and logical inconsistency identification. The Data Interpreter outperforms existing open-source solutions in various data science and real-world tasks, showing significant improvements in machine learning, mathematical problem-solving, and open-ended tasks.
+We introduces AFlow, an automated framework that reformulates workflow optimization as a search problem over code-represented workflows, using Monte Carlo Tree Search to efficiently explore and refine workflows through code modification and execution feedback. By leveraging this approach, AFlow achieves superior performance compared to state-of-the-art baselines across multiple benchmarks, while also enabling smaller models to outperform larger ones at a fraction of the cost.
+
 </div>
 </div>
 
@@ -47,6 +48,18 @@ We introduces MobileExperts, a novel system that advances autonomous operations 
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/data_interpreter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE](https://arxiv.org/pdf/2402.18679)
+
+MetaGPT Community
+
+We introduces the Data Interpreter, an advanced LLM-based agent designed to enhance problem-solving in data science. It employs three key techniques: dynamic planning with hierarchical graphs, dynamic tool integration, and logical inconsistency identification. The Data Interpreter outperforms existing open-source solutions in various data science and real-world tasks, showing significant improvements in machine learning, mathematical problem-solving, and open-ended tasks.
+</div>
+</div>
+
 
 
 # 📖 Educations
