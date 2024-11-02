@@ -89,3 +89,6 @@ We introduces the Data Interpreter, an advanced LLM-based agent designed to enha
 - *2023.07 - 2024.06*, RUC 36th Student Union Committee, Member.
 - *2023.04 - 2024.03*, RUC 45th School of Information Student Union, Chairman.
 - *2022.07 - 2023.07*, RUC lth Mingli Academy Student Union, Chairman.
+
+# invited-talks
+- *2024.10*, GraphTalk: Automating Effective Agentic Workflow Generation, Ant Group
