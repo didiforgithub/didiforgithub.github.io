@@ -16,14 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 I am a PhD student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), starting from Fall 2024. I am honored to be supervised by Professor [Yuyu Luo](https://luoyuyu.vip/). Previously, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest primarily focuses on LLM Based Agents, with a particular emphasis on reasoning ablity and the paradigm of constructing agents that are adaptable to multiple environments. 
 
 You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf).
+
+<span class='anchor' id='news'></span>
 
 # 🔥 News
 - *2024.08* I joined the DataLab at HKUST(GZ) as a PhD student, advised by Professor Yuyu Luo.
 - *2024.06* MathAI won third place in the 2024 Alibaba Global Mathematics Competition AI Challenge, thanks to SuperCarryMan!
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,10 +65,13 @@ We introduces the Data Interpreter, an advanced LLM-based agent designed to enha
 </div>
 
 
+<span class='anchor' id='educations'></span>
 
 # 📖 Educations
 - *2024.08 - Present*, The Hong Kong University of Science and Technology (Guangzhou), Information Hub.
 - *2020.09 - 2024.06*, Renmin University of China, Information School.
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 - *2024.7 - Present*, Research Assistant, [DeepWisdom](https://www.deepwisdom.ai/), China.
@@ -73,6 +80,8 @@ We introduces the Data Interpreter, an advanced LLM-based agent designed to enha
 - *2023.08 - 2023.12*, Algorithm intern, [ZhiPuAI](https://www.zhipuai.cn/) ,China.
 - *2023.07 - 2023.08*, Algorithm intern,[CYOU](https://www.changyou.com/cu.shtml), China.
 
+<span class='anchor' id='competitions and side projects'></span>
+
 # 🎯 Competitions and Side Projects
 - *2024.6*, 2024 Alibaba Global Mathematics Competition AI Challenge, Top 1% (3/563), Team Leader
 - *2024.4*, MetaGPT Android Environment, Core Contributor
@@ -80,15 +89,21 @@ We introduces the Data Interpreter, an advanced LLM-based agent designed to enha
 - *2023.9*, MetaGPT Mini Hackathon, Best Contributor
 - *2023.8*, AWS GenAl Talent Program, 2 out of 4 awards, Team member
 
+<span class='anchor' id='honors and awards'></span>
+
 # 🎖 Honors and Awards
 - *2022.10* The First Class Academic Progress Scholarship, Renmin University of China. 
 - *2022.10* The First Class Social Work and Leadership Scholarship, Renmin University of China.
 - *2023.10* The First Class Outstanding Student Leadership Scholarship, Renmin University of China.
+
+<span class='anchor' id='leaderships'></span>
 
 # 👥 Leaderships
 - *2023.07 - 2024.06*, RUC 36th Student Union Committee, Member.
 - *2023.04 - 2024.03*, RUC 45th School of Information Student Union, Chairman.
 - *2022.07 - 2023.07*, RUC lth Mingli Academy Student Union, Chairman.
 
-# invited-talks
+<span class='anchor' id='invited-talks'></span>
+
+# 🔈 invited-talks
 - *2024.10*, GraphTalk: Automating Effective Agentic Workflow Generation, Ant Group
