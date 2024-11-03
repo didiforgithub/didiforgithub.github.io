@@ -80,7 +80,7 @@ We introduces the Data Interpreter, an advanced LLM-based agent designed to enha
 - *2023.08 - 2023.12*, Algorithm intern, [ZhiPuAI](https://www.zhipuai.cn/) ,China.
 - *2023.07 - 2023.08*, Algorithm intern,[CYOU](https://www.changyou.com/cu.shtml), China.
 
-<span class='anchor' id='competitions and side projects'></span>
+<span class='anchor' id='competitions'></span>
 
 # 🎯 Competitions and Side Projects
 - *2024.6*, 2024 Alibaba Global Mathematics Competition AI Challenge, Top 1% (3/563), Team Leader
@@ -89,7 +89,7 @@ We introduces the Data Interpreter, an advanced LLM-based agent designed to enha
 - *2023.9*, MetaGPT Mini Hackathon, Best Contributor
 - *2023.8*, AWS GenAl Talent Program, 2 out of 4 awards, Team member
 
-<span class='anchor' id='honors and awards'></span>
+<span class='anchor' id='honors'></span>
 
 # 🎖 Honors and Awards
 - *2022.10* The First Class Academic Progress Scholarship, Renmin University of China. 

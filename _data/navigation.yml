@@ -16,10 +16,10 @@ main:
     url: "/#internships"
 
   - title: "Side Projects"
-    url: "/#competitions and side projects"
+    url: "/#competitions"
 
   - title: "Honors and Awards"
-    url: "/#honors and awards"
+    url: "/#honors"
 
   - title: "Invited Talks"
     url: "/#invited-talks"
