@@ -19,6 +19,8 @@ redirect_from:
 
 I am a PhD student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), starting from Fall 2024. I am honored to be supervised by Professor [Yuyu Luo](https://luoyuyu.vip/). Previously, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest primarily focuses on LLM Based Agents, with a particular emphasis on reasoning ablity and the paradigm of constructing agents that are adaptable to multiple environments. 
 
+I am building a community called [MindForge](https://github.com/Mind4Forge), aimed at bringing together researchers and engineers interested in intelligence to explore autonomous and efficient agents across different environments. Welcome to reach out.
+
 You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf).
 
 <span class='anchor' id='news'></span>
