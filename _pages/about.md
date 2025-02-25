@@ -25,13 +25,17 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf)
 
 <span class='anchor' id='news'></span>
 
+
 # 🔥 News
+- *2025.2* We proposed AlphaSQL, the o1 moment for NL2SQL!
+- *2025.2* We proposed SPO (Self-Supervised Prompt Optimization) and AoT (Atom of Thoughts for Markov Test-Time Scaling)
+- *2025.2* AFLOW was accepted by ICLR 2025 as an Oral Presentation (Top 1.8%)
 - *2024.08* I joined the DataLab at HKUST(GZ) as a PhD student, advised by Professor Yuyu Luo.
 - *2024.06* MathAI won third place in the 2024 Alibaba Global Mathematics Competition AI Challenge, thanks to SuperCarryMan!
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='selected publications'></span>
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Oral</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762)
@@ -43,30 +47,6 @@ We introduces AFlow, an automated framework that reformulates workflow optimizat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/mobile_experts.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://arxiv.org/abs/2407.03913)
-
-**Jiayi Zhang**, Chuang Zhao, Yihan Zhao, Zhaoyang Yu, Ming He, Jianping Fan
-
-We introduces MobileExperts, a novel system that advances autonomous operations in mobile computing through multi-agent collaboration and tool formulation. It addresses the limitations of current Visual Language Models in handling complex tasks on mobile devices. The study demonstrates improved performance across various complexity levels and significantly reduced reasoning costs, marking a step forward in mobile device automation.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='images/data_interpreter.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DATA INTERPRETER: AN LLM AGENT FOR DATA SCIENCE](https://arxiv.org/pdf/2402.18679)
-
-MetaGPT Community
-
-We introduces the Data Interpreter, an advanced LLM-based agent designed to enhance problem-solving in data science. It employs three key techniques: dynamic planning with hierarchical graphs, dynamic tool integration, and logical inconsistency identification. The Data Interpreter outperforms existing open-source solutions in various data science and real-world tasks, showing significant improvements in machine learning, mathematical problem-solving, and open-ended tasks.
-</div>
-</div>
-
-
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
@@ -76,8 +56,8 @@ We introduces the Data Interpreter, an advanced LLM-based agent designed to enha
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *2024.7 - Present*, Research Assistant, [DeepWisdom](https://www.deepwisdom.ai/), China.
-- *2024.6 - Present*, Research Intern, [Thin Red Line](https://www.thinredline.com.cn/), China.
+- *2024.7 - Present*, Research Intern, [DeepWisdom](https://www.deepwisdom.ai/), China.
+- *2024.6 - 2025.2*, Research Intern, [Thin Red Line](https://www.thinredline.com.cn/), China.
 - *2023.12 - 2024.5*, Research Intern, [Lenovo Research AI Lab](https://research.lenovo.com/webapp/view/index.html), China.
 - *2023.08 - 2023.12*, Algorithm intern, [ZhiPuAI](https://www.zhipuai.cn/) ,China.
 - *2023.07 - 2023.08*, Algorithm intern,[CYOU](https://www.changyou.com/cu.shtml), China.
