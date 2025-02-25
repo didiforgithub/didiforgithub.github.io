@@ -27,11 +27,14 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf)
 
 
 # 🔥 News
-- *2025.2* We proposed AlphaSQL, the o1 moment for NL2SQL!
-- *2025.2* We proposed SPO (Self-Supervised Prompt Optimization) and AoT (Atom of Thoughts for Markov Test-Time Scaling)
-- *2025.2* AFLOW was accepted by ICLR 2025 as an Oral Presentation (Top 1.8%)
+- *2025.02* We proposed AlphaSQL, the o1 moment for NL2SQL!
+- *2025.02* We proposed SPO (Self-Supervised Prompt Optimization) and AoT (Atom of Thoughts for Markov Test-Time Scaling)
+- *2025.02* AFLOW was accepted by ICLR 2025 as an Oral Presentation (Top 1.8%)
 - *2024.08* I joined the DataLab at HKUST(GZ) as a PhD student, advised by Professor Yuyu Luo.
+- *2024.07* We proposed MobileExperts, a Multi-Agent system in GUI environments.
 - *2024.06* MathAI won third place in the 2024 Alibaba Global Mathematics Competition AI Challenge, thanks to SuperCarryMan!
+- *2024.02* Participated in my first academic paper, delighted to collaborate with the MetaGPT community to publish Data Interpreter.
+- *2023.12* Participated in the Baidu Hackathon with my homies and won second place.
 
 <span class='anchor' id='selected publications'></span>
 # 📝 Publications 
