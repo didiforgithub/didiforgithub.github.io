@@ -36,8 +36,8 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf)
 - *2024.02* Participated in my first academic paper, delighted to collaborate with the MetaGPT community to publish Data Interpreter.
 - *2023.12* Participated in the Baidu Hackathon with my homies and won second place.
 
-<span class='anchor' id='selected publications'></span>
-# 📝 Publications 
+<span class='anchor' id='publications'></span>
+# 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Oral</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
