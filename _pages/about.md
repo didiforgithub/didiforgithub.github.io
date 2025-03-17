@@ -92,3 +92,4 @@ We introduces AFlow, an automated framework that reformulates workflow optimizat
 
 # 🔈 invited-talks
 - *2024.10*, GraphTalk: Automating Effective Agentic Workflow Generation, Ant Group
+- *2025.3*, ThinkZo Workshop, From OpenManus to Foundation Agents, HUAWEI
