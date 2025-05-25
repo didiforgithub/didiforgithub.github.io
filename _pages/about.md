@@ -44,7 +44,7 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Oral</div><img src='images/aflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762)
+[AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762) [[Twitter]](https://x.com/didiforx/status/1890242001817464935)
 
 **Jiayi Zhang**, Jinyu Xiang, Zhaoyang Yu, Fengwei Teng, Xionghui Chen, Jiaqi Chen, Mingchen Zhuge, Xin Cheng, Sirui Hong, Jinlin Wang, Bingnan Zheng, Bang Liu, Yuyu Luo, Chenglin Wu
 
