@@ -21,12 +21,15 @@ I am a PhD student at the [Hong Kong University of Science and Technology (Guang
 
 I am building a community called [MindForge](https://github.com/Mind4Forge), aimed at bringing together researchers and engineers interested in intelligence to explore autonomous and efficient agents across different environments. ***If you are interested, feel free to reach out to me***.
 
-You can find my CV here: [didi's Curriculum Vitae](../assets/Jiayi Zhang CV.pdf).
+You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 
 <span class='anchor' id='news'></span>
 
 
 # 🔥 News
+- *2025.05* We proposed LiteCoT, simple data synthesis pipeline!
+- *2025.04* We finalize the Foundation Agent Survey V1, Let's talk about cross-environment agents.
+- *2025.03* We proposed OpenManus, we get **45.5K** Stars in two months!
 - *2025.02* We proposed AlphaSQL, the o1 moment for NL2SQL!
 - *2025.02* We proposed SPO (Self-Supervised Prompt Optimization) and AoT (Atom of Thoughts for Markov Test-Time Scaling)
 - *2025.02* AFLOW was accepted by ICLR 2025 as an Oral Presentation (Top 1.8%)
