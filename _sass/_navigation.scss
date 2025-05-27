@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  // background: $background-color; // 移除底色
 
   a {
     display: block;
@@ -183,6 +183,7 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    // background: none; // 移除链接底色
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -203,6 +204,7 @@
 
   .visible-links {
     display: table;
+    // background: none; // 确保无底色
 
     li {
       display: table-cell;
@@ -323,6 +325,7 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
+    background: none;
     background: $primary-color;
     border-radius: $border-radius;
 
