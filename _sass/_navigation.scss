@@ -432,14 +432,14 @@
 }
 
 .site-nav, .navbar {
-  background: $background-color;
+  background: none;
+  border-bottom: 3px solid $border-color;
+  box-shadow: none;
+  margin: 0;
+  padding: 0;
   width: 100vw;
   min-width: 100vw;
   left: 0;
   right: 0;
   position: relative;
-  border-bottom: 3px solid $border-color;
-  box-shadow: none;
-  margin: 0;
-  padding: 0;
 }
