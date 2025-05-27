@@ -23,9 +23,10 @@ I am building a community called [MindForge](https://github.com/Mind4Forge), aim
 
 You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 
+
 <span class='anchor' id='news'></span>
 
-
+<div class="news-scroll">
 # 🔥 News
 - *2025.05* We proposed [LiteCoT](https://arxiv.org/abs/2505.19716), simple data synthesis pipeline!
 - *2025.05* [Data Interpreter](https://arxiv.org/abs/2402.18679) was accepted by ACL findings.
@@ -40,6 +41,7 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 - *2024.06* MathAI won third place in the 2024 Alibaba Global Mathematics Competition AI Challenge, thanks to SuperCarryMan!
 - *2024.02* Participated in my first academic paper, delighted to collaborate with the MetaGPT community to publish [Data Interpreter](https://arxiv.org/abs/2402.18679).
 - *2023.12* Participated in the Baidu Hackathon with my homies and won second place.
+</div>
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications

@@ -410,3 +410,12 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+.news-scroll {
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+}
