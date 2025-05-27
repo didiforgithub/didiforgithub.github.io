@@ -27,7 +27,10 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 
 
 # 🔥 News
+<div style="height: 300px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
 - *2025.05* We proposed [LiteCoT](https://arxiv.org/abs/2505.19716), simple data synthesis pipeline!
+- *2025.05* [Data Interpreter](https://arxiv.org/abs/2402.18679) was accepted by ACL findings.
+- *2025.05* [AlphaSQL](https://arxiv.org/abs/2502.17248) was accepted by ICML 2025.
 - *2025.04* We finalize the [Foundation Agent Survey](https://arxiv.org/abs/2504.01990) V1, Let's talk about cross-environment agents.
 - *2025.03* We proposed [OpenManus](https://github.com/FoundationAgents/OpenManus), we get **46.1K** Stars in two months!
 - *2025.02* We proposed [AlphaSQL](https://arxiv.org/abs/2502.17248), the o1 moment for NL2SQL!
@@ -38,6 +41,7 @@ You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
 - *2024.06* MathAI won third place in the 2024 Alibaba Global Mathematics Competition AI Challenge, thanks to SuperCarryMan!
 - *2024.02* Participated in my first academic paper, delighted to collaborate with the MetaGPT community to publish [Data Interpreter](https://arxiv.org/abs/2402.18679).
 - *2023.12* Participated in the Baidu Hackathon with my homies and won second place.
+</div>
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications
