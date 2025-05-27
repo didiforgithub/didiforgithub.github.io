@@ -227,24 +227,11 @@
       position: relative;
 
       &:before {
-        content: "";
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
-        width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
+        display: none;
       }
 
       &:hover:before {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
+        display: none;
       }
     }
   }
@@ -429,17 +416,4 @@
       display: block;
     }
   }
-}
-
-.site-nav, .navbar {
-  background: none;
-  border-bottom: 3px solid $border-color;
-  box-shadow: none;
-  margin: 0;
-  padding: 0;
-  width: 100vw;
-  min-width: 100vw;
-  left: 0;
-  right: 0;
-  position: relative;
 }
