@@ -57,7 +57,7 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #f5ecd7;
+$background-color           : #f2f1ed;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : #3e2723;
@@ -165,27 +165,24 @@ $button-border              : #8d5524;
 $nav-font-color: #2d1c0b;
 
 .site-nav, .navbar {
-  background: $primary-color;
+  background: $background-color;
   border-bottom: 3px solid $border-color;
-  box-shadow: 0 2px 8px rgba(60, 40, 20, 0.08);
+  box-shadow: none;
 }
 
 .site-nav a, .navbar a {
+  background: none !important;
   color: $secondary-color !important;
   font-weight: bold;
   padding: 0.5em 1.2em;
-  border-radius: 6px;
+  border-radius: 0;
   &:hover {
-    background: $accent-color;
-    color: #fff !important;
+    color: $accent-color !important;
+    text-decoration: underline;
   }
 }
 
 .main, .page, .page__content {
-  background: rgba(255,255,255,0.7);
-  border-radius: 16px;
-  border: 1.5px solid $border-color;
-  box-shadow: 0 4px 24px rgba(188,163,127,0.08);
   padding: 2.5em 2em;
   margin-top: 2em;
 }
