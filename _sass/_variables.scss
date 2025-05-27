@@ -161,3 +161,46 @@ $accent-color               : #e3b04b;
 $button-bg                  : #e3b04b;
 $button-text                : #3e2723;
 $button-border              : #8d5524;
+
+$nav-font-color: #2d1c0b;
+
+.site-nav, .navbar {
+  background: $primary-color;
+  border-bottom: 3px solid $border-color;
+  box-shadow: 0 2px 8px rgba(60, 40, 20, 0.08);
+}
+
+.site-nav a, .navbar a {
+  color: $secondary-color !important;
+  font-weight: bold;
+  padding: 0.5em 1.2em;
+  border-radius: 6px;
+  &:hover {
+    background: $accent-color;
+    color: #fff !important;
+  }
+}
+
+.main, .page, .page__content {
+  background: rgba(255,255,255,0.7);
+  border-radius: 16px;
+  border: 1.5px solid $border-color;
+  box-shadow: 0 4px 24px rgba(188,163,127,0.08);
+  padding: 2.5em 2em;
+  margin-top: 2em;
+}
+
+.author__avatar img {
+  border: 4px solid $border-color;
+  border-radius: 50%;
+  filter: sepia(0.2) contrast(1.1);
+  box-shadow: 0 2px 12px rgba(60,40,20,0.10);
+}
+
+body {
+  line-height: 1.8;
+  padding-bottom: 2em;
+}
+.page__content p, .page__content li {
+  margin-bottom: 1.2em;
+}
