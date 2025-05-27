@@ -11,9 +11,12 @@ body {
   margin: 0;
   padding: 0;
   padding-bottom: 0em;
+  background: $background-color;
   color: $text-color;
-  font-family: $global-font-family;
-  line-height: 1.5;
+  font-family: 'Merriweather', 'Georgia', 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 1.7;
+  letter-spacing: 0.02em;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -24,8 +27,11 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
   line-height: 1.2;
-  font-family: $header-font-family;
+  font-family: 'Merriweather', 'Georgia', serif;
   font-weight: bold;
+  color: $secondary-color;
+  letter-spacing: 0.04em;
+  text-shadow: 1px 1px 0 #fff8e1;
 }
 
 h1 {
@@ -118,7 +124,9 @@ blockquote {
 /* links */
 
 a {
-  
+  color: $link-color;
+  text-decoration: underline;
+  transition: color 0.2s;
   &:focus {
     @extend %tab-focus;
   }
@@ -132,11 +140,15 @@ a {
 /* code */
 
 tt, code, kbd, samp, pre {
-  font-family: $monospace;
+  font-family: 'Fira Mono', 'Consolas', monospace;
 }
 
 pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
+  background: #f3e9d2;
+  color: #8d5524;
+  border-radius: 4px;
+  padding: 2px 6px;
 }
 
 p > code,
@@ -162,9 +174,10 @@ td > code {
 
 hr {
   display: block;
-  margin: 1em 0;
+  margin: 2em 0;
   border: 0;
-  border-top: 1px solid $border-color;
+  border-top: 2px dashed $border-color;
+  opacity: 0.6;
 }
 
 /* lists */
