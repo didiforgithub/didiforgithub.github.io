@@ -156,4 +156,4 @@ We introduce Aot, a unique perspective for viewing test time scaling.
 <span class='anchor' id='services'></span>
 
 # 💁 Services
-- Reviewer: ICML 2025, ICML 2025 MAS Workshop, COLM 2025 AIA Workshop
+- Reviewer: ICML 2025, AAAI 2025, ICML 2025 MAS Workshop, COLM 2025 AIA Workshop
