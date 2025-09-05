@@ -19,10 +19,11 @@ redirect_from:
 
 I am a PhD student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), starting from Fall 2024. I am honored to be supervised by Professor [Yuyu Luo](https://luoyuyu.vip/). Previously, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest primarily focuses on LLM Based Agents, with a particular emphasis on reasoning ablity and the paradigm of constructing agents that are adaptable to multiple environments. 
 
-I am building a community called [MindForge](https://github.com/Mind4Forge), aimed at bringing together researchers and engineers interested in intelligence to explore autonomous and efficient agents across different environments. ***If you are interested, feel free to reach out to me***.
+Currently, I'm leading the research team of [MetaGPT](https://www.deepwisdom.ai/). We are hiring research interns (Agent, RL, Optimization) and research engineer interns. Feel free to email me to discuss potential collaboration opportunities. 
 
-You can find my CV here: [didi's Curriculum Vitae](../assets/CV.pdf).
+At the same time, i am building a community called [MindForge](https://github.com/Mind4Forge), aimed at bringing together researchers and engineers interested in intelligence to explore autonomous and efficient agents across different environments. ***If you are interested, feel free to reach out to me***.
 
+You can find my CV here: [didi's Curriculum Vitae](https://www.overleaf.com/read/jnhkgyqbtscx#ebbfa7).
 
 <span class='anchor' id='news'></span>
 
@@ -156,4 +157,4 @@ We introduce Aot, a unique perspective for viewing test time scaling.
 <span class='anchor' id='services'></span>
 
 # 💁 Services
-- Reviewer: ICML 2025, AAAI 2025, ICML 2025 MAS Workshop, COLM 2025 AIA Workshop
+- Program Committee / Conference Reviewer: ICML 2025, AAAI 2025, ICLR2026, ICML 2025 MAS Workshop, COLM 2025 AIA Workshop, NeurIPS 2025 SEA Workshop
