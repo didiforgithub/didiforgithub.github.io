@@ -72,6 +72,8 @@ OpenManus Team
 We introduce OpenManus, an open-source project for enhancing public's understanding of agents. 
 
 
+</div>
+</div>
 
 <span class='anchor' id='educations'></span>
 
