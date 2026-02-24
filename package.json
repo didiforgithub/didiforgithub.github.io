@@ -1,0 +1,9 @@
+{
+  "name": "jiayi-homepage-static",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "python3 -m http.server 4000",
+    "dev:8080": "python3 -m http.server 8080"
+  }
+}

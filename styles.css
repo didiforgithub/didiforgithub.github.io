@@ -1,0 +1,244 @@
+:root {
+  --ink-1: #0f0f0f;
+  --ink-2: #3f3f3f;
+  --line: #d9d9d9;
+  --maxw: 1080px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: linear-gradient(180deg, #ffffff 0%, #f4f4f4 100%);
+}
+
+body {
+  color: var(--ink-1);
+  font-family: "IBM Plex Sans", "Helvetica Neue", sans-serif;
+  line-height: 1.75;
+}
+
+a {
+  color: var(--ink-1);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  background: #ebebeb;
+}
+
+.topbar {
+  backdrop-filter: blur(6px);
+  background: rgba(255, 255, 255, 0.92);
+  border-bottom: 1px solid var(--line);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.topbar-inner {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: var(--maxw);
+  padding: 0.9rem 1rem;
+}
+
+.brand {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.45rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+}
+
+.nav a {
+  font-family: "IBM Plex Mono", Menlo, monospace;
+  font-size: 0.74rem;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: var(--maxw);
+  padding: 1.6rem 1rem 3rem;
+}
+
+.hero {
+  border-bottom: 1px solid var(--line);
+  display: grid;
+  gap: 1.2rem;
+  grid-template-columns: 1.4fr 0.8fr;
+  padding: 1rem 0 1.8rem;
+}
+
+.kicker {
+  color: var(--ink-2);
+  font-family: "IBM Plex Mono", Menlo, monospace;
+  font-size: 0.76rem;
+  letter-spacing: 0.1em;
+  margin: 0 0 0.4rem;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3 {
+  color: #000000;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  margin: 0;
+}
+
+h1 {
+  font-size: clamp(2rem, 4.2vw, 3.1rem);
+  margin-bottom: 0.75rem;
+}
+
+h2 {
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  margin-bottom: 0.85rem;
+}
+
+h3 {
+  font-size: 1.35rem;
+  margin-bottom: 0.5rem;
+}
+
+.intro {
+  margin: 0;
+  max-width: 62ch;
+}
+
+.intro-secondary {
+  margin-top: 0.75rem;
+}
+
+.link-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+}
+
+.link-row li {
+  margin: 0;
+}
+
+.hero-right {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.hero-right img {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  display: block;
+  max-width: 250px;
+  object-fit: cover;
+  object-position: center 42%;
+  aspect-ratio: 1 / 1;
+  width: 100%;
+}
+
+.section {
+  margin-top: 1.35rem;
+  padding-top: 1.2rem;
+}
+
+.topic-group {
+  margin-top: 0.95rem;
+}
+
+.topic-title {
+  border-bottom: 1px solid var(--line);
+  font-family: "IBM Plex Mono", Menlo, monospace;
+  font-size: 0.86rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0.35rem;
+  text-transform: uppercase;
+}
+
+.pub-list {
+  margin: 0.45rem 0 0;
+  padding: 0 0 0 1.35rem;
+}
+
+.pub-list li {
+  list-style-position: outside;
+  margin: 0;
+  padding: 0.9rem 0;
+}
+
+.pub-list li:last-child {
+  margin-bottom: 0;
+}
+
+.pub-list span {
+  color: var(--ink-2);
+  display: block;
+  font-family: "IBM Plex Mono", Menlo, monospace;
+  font-size: 0.72rem;
+  margin-top: 0.14rem;
+}
+
+.pub-list li > a {
+  color: var(--ink-1);
+  display: block;
+  font-family: "IBM Plex Sans", "Helvetica Neue", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.45;
+  margin-top: 0;
+}
+
+.footer {
+  border-top: 1px solid var(--line);
+  color: var(--ink-2);
+  font-family: "IBM Plex Mono", Menlo, monospace;
+  font-size: 0.72rem;
+  margin-top: 1.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+@media (max-width: 860px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-right {
+    justify-content: flex-start;
+  }
+
+  .hero-right img {
+    max-width: 180px;
+  }
+}
