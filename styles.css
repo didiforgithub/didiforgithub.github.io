@@ -57,11 +57,22 @@ a:hover {
 }
 
 .brand {
-  font-family: "Cormorant Garamond", Georgia, serif;
-  font-size: 1.45rem;
-  font-weight: 600;
-  letter-spacing: 0.02em;
+  align-items: center;
+  display: inline-flex;
+  font-family: "IBM Plex Mono", Menlo, monospace;
+  font-size: 0.86rem;
+  font-weight: 500;
+  gap: 0.6rem;
+  letter-spacing: 0.08em;
   text-decoration: none;
+}
+
+.brand-favicon {
+  border-radius: 4px;
+  display: block;
+  height: 2rem;
+  object-fit: cover;
+  width: 2rem;
 }
 
 .nav {
